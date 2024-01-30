@@ -8,4 +8,5 @@
  */
 class Point {
   // TODO
+  new Point(0, 0).toString();
 }
